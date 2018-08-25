@@ -39,3 +39,14 @@
 - Subject Spock - Machine Learning data set
 
 ![Metamorphosis](images/Char3.gif)
+
+---
+
+## Image Processing
+
+- Execution Output
+![Metamorphosis](images/subject.gif)
+
+- Simulation Imagination
+
+![Metamorphosis](images/subject2.gif)
