@@ -49,4 +49,7 @@
 
 - Simulation Imagination
 
-![Metamorphosis](images/subject2.gif)
+
+![Metamorphosis](images/Subject2.gif)
+
+
