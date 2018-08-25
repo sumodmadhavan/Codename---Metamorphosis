@@ -45,7 +45,7 @@
 ## Image Processing
 
 - Execution Output
-![Metamorphosis](images/subject.gif)
+![Metamorphosis](images/Subject.gif)
 
 - Simulation Imagination
 
