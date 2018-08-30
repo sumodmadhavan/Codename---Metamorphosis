@@ -64,7 +64,5 @@
 
 ## Brain Map
 
-[Brain Map](images/brainmap.png)(https://www.youtube.com/watch?v=J4op-K_4s6o)
-
-
+[![BrainMap](images/brainmap.png)](https://www.youtube.com/watch?v=J4op-K_4s6o)
 
